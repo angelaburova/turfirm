@@ -1,0 +1,9 @@
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\bin\Debug\tests.dll
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\bin\Debug\tests.pdb
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\bin\Debug\turfirm.exe
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\bin\Debug\turfirm.pdb
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\obj\Debug\tests.csprojResolveAssemblyReference.cache
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\obj\Debug\tests.dll
+C:\Users\Angela\documents\visual studio 2015\Projects\turfirm\tests\obj\Debug\tests.pdb

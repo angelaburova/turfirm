@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="turfirm.access" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABEAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Access\access.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.AddClient">
+    <Position X="32.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQAASAIABAQAACAAABiIAAIACAAEEAAAAEAAAA=</HashCode>
+      <FileName>Client\AddClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Client">
+    <Position X="24" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAEIGAAwRAAABAgQAQAAAAAAAAAAAAAAAAgAAE=</HashCode>
+      <FileName>Client\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.clients" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAEAECAAC4RwAAADABAAAAAAA=</HashCode>
+      <FileName>Client\clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.ClientType" Collapsed="true">
+    <Position X="27" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAQAABAAAAAAAAAAAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Client\ClientType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.ClientTypeCol" Collapsed="true">
+    <Position X="28.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAABAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client\ClientTypeCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.DelClient" Collapsed="true">
+    <Position X="34" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Client\DelClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Countries_Col" Collapsed="true">
+    <Position X="32.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAEBAAAQAAAAAAA=</HashCode>
+      <FileName>Cols\Countries_Col.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.FoodCol" Collapsed="true">
+    <Position X="32.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cols\FoodCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.TransportCol" Collapsed="true">
+    <Position X="28.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAAAAACAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cols\TransportCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.field" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Food" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.TourType" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Hotel" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAACAAQAAAAAAgABQAAAAAAAEAAAAAAAAgAIA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Country" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Transport" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Name" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Cost" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Valuta" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Code" Collapsed="true">
+    <Position X="21" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Visa" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>fields\filed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Filter" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAIAAAAAABABACAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.typeFilter" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.countryFilter" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.hotelFilter" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.transportFilter" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.foodFilter" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.priceFromFilter" Collapsed="true">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.priceToFilter" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.valutaFilter" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.visaFilter" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FIltration\Filter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.FilterCol" Collapsed="true">
+    <Position X="27" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>FIltration\FilterCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.FilterContr" Collapsed="true">
+    <Position X="28.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAACAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>FIltration\FilterContr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Filtres" Collapsed="true">
+    <Position X="30.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UCAAAAAAICAIABEQAACAAAACAAAICAAAEEAAAQEAAAA=</HashCode>
+      <FileName>FIltration\Filtres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.countries" Collapsed="true">
+    <Position X="30.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAUSAAAwAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>forms\countries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.hotels" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAABAAAACAAAECABA4BAAAAAAAAAAAAAA=</HashCode>
+      <FileName>forms\hotels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.DelManager" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Managers\DelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Manager">
+    <Position X="25.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIEgAIAAAwRAAAAAgAAQAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Managers\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.managers" Collapsed="true">
+    <Position X="28.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAABAAAACAAAESAAA4JgAAAFAAAABAAAA=</HashCode>
+      <FileName>Managers\managers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.ManagerType" Collapsed="true">
+    <Position X="30.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAQAIAAAAAAA=</HashCode>
+      <FileName>Managers\ManagerType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.ManagerTypeCol" Collapsed="true">
+    <Position X="32.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAACBAAAADEAAAAAAABAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Managers\ManagerTypeCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.AddOrder">
+    <Position X="34" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAoABAQAACQAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Orders\AddOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Order">
+    <Position X="27.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAgAAAAAQAAAAAAgAAAEBAAAAAAAAgAABAAgAAA=</HashCode>
+      <FileName>Orders\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.orders" Collapsed="true">
+    <Position X="25.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAABAACACAAAEaAAA6BgAAAGAAAAAAAAA=</HashCode>
+      <FileName>Orders\orders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Program" Collapsed="true">
+    <Position X="27" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Tour">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIEgAACAAQAQBAEAAAAQEAAIIgAAAAQAAAgAoAAA=</HashCode>
+      <FileName>Tours\Tour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.TourFiltr" Collapsed="true">
+    <Position X="23.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Tours\TourFiltr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.tours" Collapsed="true">
+    <Position X="25.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAEAAACAgABAAAACAAAECAIC8ZwAAADAEEAQAIAA=</HashCode>
+      <FileName>Tours\tours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.TourTypeCol" Collapsed="true">
+    <Position X="27" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tours\TourTypeCol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.turfirm" Collapsed="true">
+    <Position X="30.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAASAAECAAEBAAAgiIIABCYAAZAAIAkGQQAAAABAA=</HashCode>
+      <FileName>turfirm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Properties.Resources" Collapsed="true">
+    <Position X="28.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Properties.Settings" Collapsed="true">
+    <Position X="30.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Tours.AddTour">
+    <Position X="30.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCAAAAAAACAoABAQAACAIABSIAAIACAAEEAAAAEAAAA=</HashCode>
+      <FileName>Tours\AddTour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.Tours.DelTour" Collapsed="true">
+    <Position X="25.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>Tours\DelTour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.change_password">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAABAAAACQAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>change_password.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="turfirm.checkout">
+    <Position X="15" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAIAAAAEEAQAAAAAAA=</HashCode>
+      <FileName>Orders\checkout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
